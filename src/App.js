@@ -21,7 +21,7 @@ class App extends Component {
 
     return (
       <div>
-	        <Header />
+	  <Header heading="Phone Directory" />
         <button>Add</button>	        <div className="component-body-container">
         <div>	          <button className="custom-btn add-btn">Add</button>
           <span>Name</span><br />	
