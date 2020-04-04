@@ -9,7 +9,7 @@ class AddSusbscriber extends Component {
         super();
         this.state = {
             id: 0,
-            name: '1',
+            name: '',
             phone: ''
         }
     }
